@@ -1,0 +1,13 @@
+
+{
+    "name": "twitter-server",
+    "description": "Twitter Server",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "*",
+        "twitter": "*",
+        "socket.io": "*",
+        "mysql": "*"
+    }
+}
